@@ -28,5 +28,4 @@ Issues and improvements can be proposed by opening an issue or submitting a pull
 ## Troubleshooting
 - If schedules do not appear, verify the connection string and database file paths.
 - Ensure the required local SQL runtimes are installed and the solution is built for the correct .NET target.
-
 ---
