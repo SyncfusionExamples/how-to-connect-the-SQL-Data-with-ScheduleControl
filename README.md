@@ -1,6 +1,14 @@
 # How to connect the SQL Data with ScheduleControl
 This example demonstrates how to bind data from a SQL database to the ScheduleControl.
 
+## Overview
+This sample explains how schedule data can be loaded from a SQL database and displayed in the ScheduleControl.
+
+## Features
+- Connects to a SQL database.
+- Retrieves schedule data.
+- Displays appointments in the ScheduleControl.
+
 ## Syncfusion controls:
 
 This project used the following Syncfusion control(s):
